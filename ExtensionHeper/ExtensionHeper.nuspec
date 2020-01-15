@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ExtensionHeper</id>
+    <version>1.0.0.0</version>
+    <title>ExtensionHeper</title>
+    <authors>qiqigou</authors>
+    <owners>qiqigou</owners>
+    <licenseUrl>https://www.onlyoned.com</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>扩展帮助类</description>
+    <releaseNotes>扩展帮助类</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>list jobject 扩展类</tags>
+  </metadata>
+</package>
