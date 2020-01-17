@@ -20,9 +20,9 @@ namespace ConsoleApp2
             var rd = new RedisClient("");
 
 
-            var redis = RedisHelper
-            var uuid = redis.GetUUID();
-            Console.WriteLine(uuid);
+            //var redis = RedisHelper
+            //var uuid = redis.GetUUID();
+            //Console.WriteLine(uuid);
         }
     }
 }

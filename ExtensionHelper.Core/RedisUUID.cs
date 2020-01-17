@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ExtensionHeper
 {
-    public class RedisUUID : IRedisUUID, IDisposable
+    public class RedisUUID : IRedisUUID
     {
         private RedisClient Redis;
         public string InitKey = "UUIDkey";

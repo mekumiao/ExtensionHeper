@@ -2,7 +2,7 @@
 
 namespace ExtensionHeper
 {
-    public interface IRedisUUID
+    public interface IRedisUUID : IDisposable
     {
         void SetUUID(long value);
         long GetUUID();
