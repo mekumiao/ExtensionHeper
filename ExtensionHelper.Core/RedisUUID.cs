@@ -10,7 +10,6 @@ namespace ExtensionHeper
     public class RedisUUID : IRedisUUID, IDisposable
     {
         private RedisClient Redis;
-        private bool disposed = false;
         public string InitKey = "UUIDkey";
         public long InitValue = 0L;
 
