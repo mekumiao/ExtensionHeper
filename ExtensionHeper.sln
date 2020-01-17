@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionHeper", "Extension
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{564DDF36-01D4-4BA5-BB21-7E0E554CEE69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionHelper.Core", "ExtensionHelper.Core\ExtensionHelper.Core.csproj", "{F92C68C2-C224-407F-A809-C712F497DA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{EE83C933-64AE-42FE-9371-80FF833DCA6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{564DDF36-01D4-4BA5-BB21-7E0E554CEE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{564DDF36-01D4-4BA5-BB21-7E0E554CEE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{564DDF36-01D4-4BA5-BB21-7E0E554CEE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92C68C2-C224-407F-A809-C712F497DA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92C68C2-C224-407F-A809-C712F497DA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92C68C2-C224-407F-A809-C712F497DA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92C68C2-C224-407F-A809-C712F497DA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE83C933-64AE-42FE-9371-80FF833DCA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE83C933-64AE-42FE-9371-80FF833DCA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE83C933-64AE-42FE-9371-80FF833DCA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE83C933-64AE-42FE-9371-80FF833DCA6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
