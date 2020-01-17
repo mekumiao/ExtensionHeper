@@ -13,6 +13,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var redis = new RedisClient("127.0.0.1", 6379);
+            redis.ChangeDb(1);
             using (var uuid = new RedisUUID(redis, "wyl", 0))
             {
                 var array = uuid.GetUUID(1000);
